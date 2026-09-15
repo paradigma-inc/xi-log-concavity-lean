@@ -1,0 +1,6 @@
+'ReciprocalXi.originalLowRootSigns_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ReciprocalXi.density_probability_normalization' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ReciprocalXi.sourcePanelStreams_checked' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ReciprocalXi.sourceDensityCompactEnclosures' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ReciprocalXi.density_global_conclusions' depends on axioms: [propext, Classical.choice, Quot.sound]
+'ReciprocalXi.density_full_conclusions' depends on axioms: [propext, Classical.choice, Quot.sound]

@@ -1,0 +1,17 @@
+{
+  "baseline_full_unchanged": 1485,
+  "new_full_sketch_pairs": 3134,
+  "all_full_sketch_pairs": 4619,
+  "new_public_declarations": 26708,
+  "source_audits": 3276,
+  "endpoint_audits": 4532,
+  "panel_audits": 18900,
+  "all_actual_names_exactly_once_in_selected_raw_audits": true,
+  "axioms": [
+    "Classical.choice",
+    "Quot.sound",
+    "propext"
+  ],
+  "frozen_hashes_match": true,
+  "assembly_pending": true
+}

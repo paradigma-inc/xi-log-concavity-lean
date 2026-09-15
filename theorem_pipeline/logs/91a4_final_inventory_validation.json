@@ -1,0 +1,17 @@
+{
+  "all_full_sketch_pairs": 4620,
+  "all_public_theorems_lemmas": 34593,
+  "all_index_imports": 4621,
+  "exact_final_audit_names": [
+    "ReciprocalXi.originalLowRootSigns_checked",
+    "ReciprocalXi.density_probability_normalization",
+    "ReciprocalXi.sourcePanelStreams_checked",
+    "ReciprocalXi.sourceDensityCompactEnclosures",
+    "ReciprocalXi.density_global_conclusions",
+    "ReciprocalXi.density_full_conclusions"
+  ],
+  "all_final_names_once_standard_axioms": true,
+  "baseline_full_unchanged": 1485,
+  "scratch_final_body_identical": true,
+  "new_public_audit_coverage_including_final_proof_definition": 26714
+}

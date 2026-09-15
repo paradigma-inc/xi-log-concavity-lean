@@ -1,0 +1,8 @@
+import ProofWorkspace.Final.ReciprocalXiDensityFull
+
+#print axioms ReciprocalXi.originalLowRootSigns_checked
+#print axioms ReciprocalXi.density_probability_normalization
+#print axioms ReciprocalXi.sourcePanelStreams_checked
+#print axioms ReciprocalXi.sourceDensityCompactEnclosures
+#print axioms ReciprocalXi.density_global_conclusions
+#print axioms ReciprocalXi.density_full_conclusions

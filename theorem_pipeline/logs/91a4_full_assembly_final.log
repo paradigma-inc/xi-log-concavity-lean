@@ -1,0 +1,5 @@
+COMMAND ["lake", "--log-level=error", "build", "ProofWorkspace.Final.ReciprocalXiDensityFull"]
+✔ [8185/8185] Built ProofWorkspace.Final.ReciprocalXiDensityFull (44s)
+Build completed successfully (8185 jobs).
+
+EXIT 0 elapsed=53.72s

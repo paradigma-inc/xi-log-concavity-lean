@@ -1,0 +1,3 @@
+# Finite arithmetic for the first retained source comparison
+
+Starting from explicitly named candidate Gamma-log literals, kernel computation checks their rounded exponential and Gamma recurrence values. Combine them with the independently checked eta, pi-power and bracket literals, and check the Xi ratio interval. Its endpoints lie within $2\cdot10^{-120}$ of the exact recorded midpoint. IMPORTANT: this module checks finite arithmetic only. The candidate Gamma-log literals still need their equality proofs to the actual Gamma evaluator before this becomes an actual reciprocal-Xi source-node certificate.

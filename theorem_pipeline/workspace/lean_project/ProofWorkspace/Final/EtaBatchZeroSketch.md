@@ -1,0 +1,3 @@
+# Certified eta intervals at the first 32 grid arguments
+
+For every $0\le k<32$, `sourceEtaBatch0_actual_enclosure` bounds the actual eta integral at $s_k=(k+40)/80$ between the two displayed rational endpoints. `sourceEtaBatch0_width` proves each interval has width below $10^{-120}$. The ordinary Lean kernel checks the complete batch of signed integer sums and the 400 final root states against the already certified initial states and weights. Exact batch identities give both the pointwise analytic enclosure and the reusable state at index32. The directed remainder $2^{-400}$ is retained. No floating-point oracle or extra assumption is used. These are eta bounds, not yet full Xi/reciprocal sample bounds.
