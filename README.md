@@ -7,8 +7,8 @@ source data, build records, and independent final audit.
 For
 
 $$
-F(z)=\tfrac14\xi(\tfrac12+iz/2),\qquad
-\Lambda(x)=\frac1{2\pi}\operatorname{Re}\int_{\mathbb R}
+F(z)=\frac{1}{4}\xi\left(\frac{1}{2}+\frac{iz}{2}\right),\qquad
+\Lambda(x)=\frac{1}{2\pi}\Re\int_{\mathbb{R}}
 \frac{F(0)}{F(iu)}e^{-ixu}\,du,
 $$
 
