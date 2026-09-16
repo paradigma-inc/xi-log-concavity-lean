@@ -28,6 +28,7 @@ not certify priority.
 - [All formal modules and paired sketches](theorem_pipeline/workspace/lean_project/ProofWorkspace/Final)
 - [Final verification report](FINAL_VERIFICATION.md)
 - [Independent final audit](EXTERNAL_ASTRA_FINAL_AUDIT.md)
+- [Credit-assignment audit of the research process](CREDIT_ASSIGNMENT_AUDIT.md)
 - [Explanation and literature comparison](LITERATURE_REVIEW_20260911.md)
 - [Packaging and validation notes](PACKAGING.md)
 
